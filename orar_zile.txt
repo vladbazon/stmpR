@@ -1,4 +1,4 @@
-Lu  (6 ferestre)
+Lu  (203 ore, 6 ferestre)
        1   2   3   4   5   6   7  
 p63    11D -   -   -   -   -   -  
 p64    11A -   -   -   -   -   -  
@@ -65,7 +65,7 @@ p21    -   -   11E 12G 12D 11D -
 p40    7A  11B 9D  9C  -   -   -  
 p03    10D 10A 9H  7A  8A  -   -  
 
-Ma  (4 ferestre)
+Ma  (202 ore, 4 ferestre)
        1   2   3   4   5   6   7  
 p57    9D  -   -   -   -   -   -  
 p29    10G -   -   -   -   -   -  
@@ -133,7 +133,7 @@ p06    12A 12D 10D 10A 9E  -   -
 p02    10C 10G 6B  7A  11D -   -  
 p03    9E  9G  11G -   9H  10G -    # 1 Gap
 
-Mi  (4 ferestre)
+Mi  (203 ore, 4 ferestre)
        1   2   3   4   5   6   7 
 p64    11B -   -   -   -   -   - 
 p51    10E 12E -   -   -   -   - 
@@ -203,7 +203,7 @@ p01    6A  10D 9E  12C 9B  -   -
 p06    11D 12F 11F 10B 5A  -   - 
 p07    10A 12D 10F -   12E 12G -   # 1 Gap
 
-Jo  (6 ferestre)
+Jo  (203 ore, 6 ferestre)
        1   2   3   4   5   6  
 p65    11D -   -   -   -   -  
 p49    11C 12B -   -   -   -  
@@ -271,7 +271,7 @@ p06    11F 12D -   10D 5A  9G    # 1 Gap
 p01    11A 9H  9B  -   10F 10C   # 1 Gap
 p03    -   8A  12G 10F 12A 9D 
 
-Vi  (6 ferestre)
+Vi  (203 ore, 6 ferestre)
        1   2   3   4   5   6   7 
 p57    11A -   -   -   -   -   - 
 p65    11D -   -   -   -   -   - 
